@@ -1,9 +1,9 @@
 {
   "name": "node-red-contrib-python-function",
-  "version": "0.0.2",
+  "version": "0.0.2sw1",
   "repository": {
     "type": "git",
-    "url": "https://github.com/arnauorriols/node-red-contrib-python-function"
+    "url": "https://github.com/cymplecy/node-red-contrib-python-function"
   },
   "description": "Define a function with Python instead of Javascript",
   "keywords": [
@@ -14,7 +14,7 @@
     "polyglot",
     "hack"
   ],
-  "author": "Arnau Orriols",
+  "author": "Arnau Orriols sw",
   "license": "MIT",
   "node-red": {
     "nodes": {
